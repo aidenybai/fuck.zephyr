@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "cp -r ./node_modules/handsfree/build/lib/ ./PUBLIC"
+  },
   "dependencies": {
     "handsfree": "^8.4.4"
   }
