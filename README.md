@@ -1,3 +1,4 @@
 # fuck.zephyr
 
-![](https://cdn.discordapp.com/attachments/543664074714644501/868904069857685534/IMG_6391_2.PNG)
+
+![lmao copy](https://github.com/user-attachments/assets/a00b90a3-756e-49c6-bf7f-f8eb747202bb)
